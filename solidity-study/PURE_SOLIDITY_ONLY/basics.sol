@@ -115,6 +115,7 @@ contract Basics {
 
     // VAR MODIFIERS
     // same as functions but without the "external" modifier
+    // public variables don't need function to be called outside
 
     // function getNumberPublic() public view returns(string memory) {}
     // function getNumberExterral() external view returns(string memory) {}
